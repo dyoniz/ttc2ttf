@@ -23,7 +23,7 @@ Use `--monospaced` option for fixed sized fonts.
 
 If `--output-folder` is ommited, TTF files will be saved into current location.
 
-## Usage Example
+### Example
 
 ```bash
 python ttc2ttf.py bin/Courier.ttc --monospaced --output-folder bin/Courier
